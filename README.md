@@ -1,6 +1,6 @@
 # Hyperion 
 
- Co Contributor - Joe Comer https://github.com/Joeorisit
+Authored by Jonah Elliott https://github.com/JonahFSD and Joe Comer https://github.com/Joeorisit 
 
 I spent a few days trying to build an AI-powered equity research engine. The core idea was that if you run SEC filings through a large language model and extract structural fingerprints using Sparse Autoencoders, you can find companies that operate similarly, even across industries, better than the US government's classification system.
 
